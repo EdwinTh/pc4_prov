@@ -4,4 +4,4 @@
 
 # Mapping PC4 to Provinces
 
-(Wikipedia information)[https://nl.wikipedia.org/wiki/Postcodes_in_Nederland] in table format. Contains all postcode4s (the first four digits in Ducth postcodes). Free to use, share and ajust.
+[Wikipedia information](https://nl.wikipedia.org/wiki/Postcodes_in_Nederland) in table format. Contains all postcode4s (the first four digits in Ducth postcodes). Free to use, share and ajust.
